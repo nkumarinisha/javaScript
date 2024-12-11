@@ -51,8 +51,10 @@ let str3=str1+str2
 let str ="nisha";
 let num=62
 let res=str+num
-console.log(res);
-console.log(typeof res);
+// console.log(res);
+// console.log(typeof res);
+
+
 
 
 
