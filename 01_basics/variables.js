@@ -8,4 +8,4 @@ acc_email="nk12@gmail.com"
 acc_pass="444"
 acc_city="bokaro"
 console.table([acc_id,acc_email,acc_pass,acc_city]);// it returns the o/p in tabular form
-/* Most prefer not to use var b/c of the issue in block scope and function scope  */21
+/* Most prefer not to use var b/c of the issue in block scope and function scope  */
